@@ -1,0 +1,13 @@
+PLEASE FOLLOW THE VIDEOS IF YOU HAVE TROUBLES.
+
+1. Create an account for free online @ github.com or through the github application we installed earlier.
+
+2.  Choose local repository.  Give the repository a name and description and make sure it is pushed to github.
+
+3.  Create local playlist files to test in iStream in the github folder.  You may copy, paste, or move the blank_directory.xml and blank_playlist.xml file to that folder if you like.
+
+4.  From this point forward you should add the github folder to your file manager in XBMC.  That way you can edit your playlists locally and test them in iStream playlists!
+
+5.  Editing and syncing is dead easy.  Edit some code in your text-editor, save it.  Open github.  Github shows the uncommited changes.  Check/uncheck what you want to sync to github.  In the top left corner, type a title for the change and description.  Keeping NOTES is important!  Then click sync!  Changes are automatically pushed to the file in github.
+
+6.  In order for you to make a directory function online, you'll need the raw link data from github as the link to your other playlists.  Also, when you are ready to share your playlist or directory, you'll need the raw link to convert it to any easy name with an URL shortening service.  This is covered in the next section 6. Sharing your playlist.  

@@ -1,0 +1,29 @@
+<poster>XML TAGS and LABEL FORMATTING OVERVIEW</poster>
+<fanart></fanart>
+
+#XML and Label Formatting Tags#
+<info>
+	<message>[COLOR red][B]REMEMBER:[/B][/COLOR] All tags must be closed with [COLOR yellow]</name of tag>[/COLOR]</message>
+	<message>[COLOR red][B]REMEMBER:[/B][/COLOR] All label formatting must be in [COLOR yellow]ALL-CAPS[/COLOR] except a color's name &amp; closed with [COLOR yellow][/NAMEOFLABEL][/COLOR]</message>
+	<message>[CR]</message>
+	<message>[COLOR steelblue][B]< POSTER >[/B][/COLOR] - The title of playlist</message>
+	<message>[COLOR steelblue][B]< FANART >[/B][/COLOR] - The playlist background</message>
+	<message>[COLOR steelblue][B]< INFO >[/B][/COLOR] - First tag required for informational messages</message>
+	<message>[COLOR steelblue][B]< MESSAGE >[/B][/COLOR] - Second tag required for informational messages</message>
+	<message>[COLOR steelblue][B]< THUMBNAIL >[/B][/COLOR] - For adding a logo to your playlist messages, items, or directories</message>
+	<message>[COLOR steelblue][B]< ITEMS >[/B][/COLOR] - [COLOR lime]NEW METHOD[/COLOR] - First tag required for a group of media items</message>
+	<message>[COLOR steelblue][B]< ITEM >[/B][/COLOR] - [COLOR orange]OLD METHOD[/COLOR] - First tag required for a media item</message>
+	<message>[COLOR steelblue][B]< TITLE >[/B][/COLOR] - Second tag required to title your playlist item</message>
+	<message>[COLOR steelblue][B]< LINK >[/B][/COLOR] - Third tag required to play media items</message>
+	<message>[COLOR steelblue][B]< DIR >[/B][/COLOR] - [COLOR orange]OLD METHOD[/COLOR] - First tag for a single directory</message>
+	<message>[COLOR steelblue][B]< DIRECTORIES >[/B][/COLOR] [COLOR lime]NEW METHOD[/COLOR] - First tag required for a group of directories</message>
+	<message>[COLOR steelblue][B]< NAME >[/B][/COLOR] - Second tag required to name the directory</message>
+	<message>[COLOR steelblue][B]< SUBLINK >[/B][/COLOR] - Used in conjunction with media items of the same type</message>
+	<message>[COLOR steelblue][B][ COLOR [COLOR lightsteelblue]name[/COLOR] ][/B][/COLOR] - To add a color to text by the color's name</message>
+	<message>[COLOR steelblue][B][ COLOR [COLOR lightsteelblue]hexvalue[/COLOR] ][/B][/COLOR] - To add a color to text by the color's hex value</message>
+	<message>[COLOR steelblue][B][ B ][/B][/COLOR] - Bold Text</message>
+	<message>[COLOR steelblue][B][ I ][/B][/COLOR] - ITALIC Text</message>
+	<message>[COLOR steelblue][B][ CR ][/B][/COLOR] - A Carriage Return (Drop down a line, seperator.  Many uses...</message>
+	
+	<message>[CR]</message>
+	<message>[COLOR lime]More coming soon...[/COLOR]</message>

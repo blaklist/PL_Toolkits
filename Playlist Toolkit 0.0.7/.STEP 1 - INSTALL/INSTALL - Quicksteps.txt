@@ -1,0 +1,22 @@
+PLEASE FOLLOW THE VIDEOS IF YOU HAVE TROUBLES
+
+1.  Choose a text-editor from the links I provided, and download the application to your computer.  You can alternatively just use a basic editor such as notepad on windows or textedit on mac but it is not recommended.
+
+2.  You will need an online code-hosting (VCS) service to upload your playlists.  Choose from a number of providers such as:
+
+BitBucket
+GitHub
+Google Code
+PasteBin
+
+Choosing an online hosting service is very important before coding playlists.  Each provider has their advantages and disadvantages and picking one now will effect how you code your own playlists in the future.  I recommend Github.
+
+
+In this toolkit we only use Github and will not be going over the others until a future date.  However, if you need assistance with those, you can contact me and others via the skype group, social networks, and on the xunitytalk.com forums.
+
+Install the GitHub desktop application.  You will be creating an account later.
+
+
+3.  Links to all online code hosting sites.  For exploration and sign-up.
+
+#END

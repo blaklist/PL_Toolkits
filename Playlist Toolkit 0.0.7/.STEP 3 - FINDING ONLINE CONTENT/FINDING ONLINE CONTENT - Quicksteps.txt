@@ -1,0 +1,44 @@
+PLEASE FOLLOW THE VIDEOS IF YOU HAVE TROUBLES!
+
+ 
+INTERNAL AND EXTERNAL LINKS:
+
+	There are two types of links.  Internal and External links.  Understanding these differences will help you as you find content on the web.
+
+	An external link, as the example shown below, will have the file extension at the end of the file-type.
+
+	EX:http://somevideo.mp4
+
+	Please see the offical XBMC wiki for a list of playable formats:
+	http://wiki.xbmc.org/index.php?title=Features_and_supported_formats
+
+	Internal links are locations to files you would normally have to download in your web browser.  
+
+	EX:  http://somewebsite.com/5z3iU
+
+	With internal links, no file extension is included.  These usually require a resolver/addon to play in iStream!
+
+	iStream turns these into streamable files.  There are already tons of resolvers coded into iStream by default, plus many more as extensions to iStream made by 		the wonderful developers of the xunitytalk community.
+
+
+FINDING CONTENT:
+	You can find any media content by doing simple internet searches on the web.
+	I have included a few locations to get you started.  YOUTUBE has tons of quality content that should at least be a part of every person's playlist in some way 	or another.
+
+	To find content, search the web.  If you see a video you like, find its internal or external address and paste it in between the <link></link> section of your 	playlists!
+
+	If you find something that isn't working, its possible a resolver may need to be created!  Get with a developer in the forums and we'll work to try getting 	those links 	to play.
+
+
+LIVE TV STREAMS:
+
+	I unfortunately cannot provide support for live tv streams at the moment.  It is a complex task that requires you to sniff out the links of a live tv using a network protocol analyzer. (aka URL sniffer - Search about it.  Plenty of how-tos online!)
+
+RTMPDUMPER - http://www.nirsoft.net/utils/rtmp_dump_helper.html
+WIRESHARK - http://www.wireshark.org
+URL HELPER - http://www.urlhelper.com/
+
+
+Please get with someone on the forums or do a little research on the net for how to do this!
+
+Happy content hunting!

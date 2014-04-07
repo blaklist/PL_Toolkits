@@ -1,0 +1,9 @@
+Each of these files may be opened in your text-editor.  I put this in here just as a dead-simple way to get familar with coding playlists.  It is not needed if you already a playlistmaker; however, if you code in another format other than XML.  This may help you!
+
+Try it yourself.  Open each file and fill in the blanks where I have stated.  If you code the document correctly, it will add as a local playlist in iStream successfully!
+
+Some of the files have errors on purpose for you to fix.  If you need any help, get with me on the xunitytalk.com forums or in the playlist group chat on Skype!
+
+More to come in a future release of the toolkit!
+
+:D

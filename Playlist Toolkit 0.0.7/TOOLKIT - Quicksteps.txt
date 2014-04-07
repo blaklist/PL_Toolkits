@@ -1,0 +1,11 @@
+Each folder is set up to attempt to simplify your learning experiencing with coding XML playlists.
+
+Follow each folder if you wish.  Videos will be uploaded throughout the week.
+
+This entire project is forkable via Github if you wish.  It is the best way to get updates to the toolkit.
+
+Add this entire folder to your file manager, and add the files as you go as local playlists.  When you are done with them, you can remove them.
+
+Happy playlisting!
+
+-MEFROX

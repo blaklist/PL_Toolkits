@@ -1,0 +1,11 @@
+PLEASE FOLLOW THE VIDEOS IF YOU YOU HAVE TROUBLES
+
+These folders should be in XBMC file manager if you followed TOOLKIT - Quicksteps.txt.
+
+Open your text-editor of choice.  (Notepad++, Textwrangler, Notepad, etc)
+
+MULTITASKING TIP - Minimize XBMC with the \ key on your keyboard and resize the window to a comfortable size.  This is so you can bounce back and forth quickly between your text editor and XBMC.
+
+Explore the files in this folder in iSTREAM as local playlists AND in your text editor to see how they are made.
+
+When you are finished, proceed to the next section in the toolkit!

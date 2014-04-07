@@ -1,0 +1,30 @@
+<poster>EXAMPLES OF DIRECTORY PLAYLISTS</poster>
+<fanart></fanart>
+
+SINGLE DIRECTORIES
+<dir>
+	<name>[COLOR steelblue][B]EXAMPLE DIRECTORY ONE[/B][/COLOR] - XunityTalk Playlist Directory!</name>
+	<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+	<link>http://is.gd/xunitytalk</link>
+</dir>
+
+<dir>
+	<name>[COLOR steelblue][B]EXAMPLE DIRECTORY TWO[/B][/COLOR] - Denzel Washington Movies</name>
+	<thumbnail>http://img2-2.timeinc.net/ew/dynamic/imgs/071025/cover/denzel_l.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/mefrox/PL_Toolkits/master/Playlist%20Toolkit%200.0.7/.STEP%202%20-SETUP%20&%20EXPLORE/Reference%20Files/example_playlist.xml</link>
+</dir>
+
+
+FOR MULTIPLE DIRECTORIES - CUT DOWN THE CODE YOU WOULD NORMALLY HAVE TO TYPE!  LOOKS CLEANER!  EASIER TO READ!
+<directories>
+	
+	<name>[COLOR steelblue][B]EXAMPLE DIRECTORY THREE[/B][/COLOR] - A [COLOR red]YOU[/COLOR]TUBE PLAYLIST</name>
+	<thumbnail>https://lh5.googleusercontent.com/-zOOnspI61u4/UvuROMvjgbI/AAAAAAAAACU/XbCR9fwZo6U/w418-h419-no/TOMMY+RETRO's+TV+NETWORK+(white+border).jpg</thumbnail>
+	<link>http://gdata.youtube.com/feeds/api/users/UCizPQclJobCsrTZGPlDeBlw/playlists</link>
+
+	<name>[COLOR steelblue][B]EXAMPLE DIRECTORY FOUR[/B][/COLOR] - A [COLOR yellow]RSS[/COLOR] FEED</name>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6e/Spoony_Experiment_Title_Card.jpg</thumbnail>
+	<link>http://blip.tv/the-spoony-experiment/rss</link>
+	
+</directories>
+	

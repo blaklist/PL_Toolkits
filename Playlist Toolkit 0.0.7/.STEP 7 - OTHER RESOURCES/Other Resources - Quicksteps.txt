@@ -1,0 +1,6 @@
+Local Media just gives you some sample images if you wish to use them.
+
+PSD_Templates includes a photoshop template with grid rulers in case you want to make a very special background yourself.
+
+The Youtube DATA Api is a handy tool for finding the gdata links to yotube playlists.  Explore it!
+
